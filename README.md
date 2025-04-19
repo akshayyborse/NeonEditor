@@ -2,7 +2,7 @@
 
 A modern web application for creating stunning photo effects with neon text overlays. Upload your images, add custom text with neon effects, and customize your creations with a variety of fonts and effects.
 
-![Neonphoto Editor Screenshot](screenshot.png)
+![Neonphoto Editor Screenshot](public/screenshot.svg)
 
 ## Features
 
